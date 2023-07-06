@@ -66,7 +66,7 @@ width: 70%;
 .collumn{
     font-size: 14px;
     line-height: 20px;
-    width: 21.5%;
+    width: 19.5%;
     display: inline-block;
     padding: 0 3% 0 3%;
     vertical-align: top;
@@ -269,7 +269,7 @@ width: 70%;
 }
 @media only all and (max-width: 600px) {
     .collumn{
-        width: 90%;
+        width: 100%;
     }
 	.collumn + .collumn {
 				border-left: none;
