@@ -75,6 +75,7 @@ p {
   transition: all 0.7s;
    margin-bottom: 50px;
     margin-right: 1%;
+    min-width: 350px;
 }
 .collumn + .collumn {
   border-left: 1px solid #2f2f2f;
@@ -244,7 +245,7 @@ white-space: initial;
 .media {
   mix-blend-mode: multiply;
   max-width: 90%;
-  min-width: 300px;
+  min-width: 350px;
 }
 
 .headerobjectswrapper iframe {
