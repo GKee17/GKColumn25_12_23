@@ -75,7 +75,7 @@ p {
   vertical-align: top;
   transition: all 0.7s;
    margin-bottom: 50px;
-    margin-right: 0.6%;
+    margin-right: 1%;
 }
 .collumn + .collumn {
   border-left: 1px solid #2f2f2f;
