@@ -9,13 +9,12 @@ body {
 }
 header {
   font-family: "Playfair Display", serif;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 80px;
   text-transform: uppercase;
   display: inline-block;
   line-height: 72px;
   margin-bottom: 20px;
-  max-width: 90%;
 }
 p {
   margin-top: 0;
