@@ -53,6 +53,8 @@ width: 70%;
 .content{
     font-size: 0;
     line-height: 0;
+     text-align: justify;
+
     word-spacing: -.31em;
     display: inline-block;
     margin: 30px 2% 0 2%;
