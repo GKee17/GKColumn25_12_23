@@ -54,7 +54,7 @@ p {
 .content {
   font-size: 0;
   line-height: 0;
-  text-align: center;
+  text-align: left;
   word-spacing: -0.31em;
   display: inline;
   max-width: 85%;
