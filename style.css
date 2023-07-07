@@ -1,6 +1,6 @@
 body {
   font-family: "Droid Serif", serif;
-  font-size: 14px;
+  font-size: 12px;
   margin: 0.5;
   padding: 0;
   margin-right: 2%;
@@ -57,10 +57,10 @@ p {
   text-align: justify;
   word-spacing: -0.31em;
   display: inline;
-  max-width: 95%;
+  max-width: 85%;
   margin: 30px 5% 0 5%;
   margin-left: -0.6%;
-  margin-right: 3%
+  margin-right: 4%;
 }
 .collumns {
 }
