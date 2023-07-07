@@ -9,8 +9,8 @@ body {
 }
 header {
   font-family: "Playfair Display", serif;
-  font-weight: 400;
-  font-size: 40px;
+  font-weight: 600;
+  font-size: 50px;
   white-space: initial;
   text-transform: uppercase;
   display: inline;
@@ -237,6 +237,6 @@ white-space: initial;
 }
 .media {
   mix-blend-mode: multiply;
-  width: 60%;
+  width: 90%;
 }
 
