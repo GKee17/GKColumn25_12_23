@@ -64,7 +64,7 @@ p {
 .collumn {
   font-size: 14px;
   line-height: 20px;
-  width: 30.5%;
+  width: 20.5%;
   display: inline-block;
   padding: 1% 2% 1% 2%;
     position: relative;
@@ -80,7 +80,7 @@ p {
   line-height: normal;
   font-family: "Playfair Display", serif;
   display: inline-block;
-  padding: 10px 0 10px 10px;
+  padding: 10px 0 10px 0px;
   margin: 0 auto;
 }
 .collumn .headline.hl1 {
