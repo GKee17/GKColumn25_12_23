@@ -23,8 +23,7 @@ p{
 .head{
     text-align: left;
     position: relative;
-
-
+    max-width: 100%;
 }
 
 .headerobjectswrapper{
@@ -35,10 +34,8 @@ p{
     border-bottom: 2px solid #2f2f2f;
     border-top: 2px solid #2f2f2f;
     padding: 12px 0 12px 0;
-width: 70%;
-	
-
-
+    width: 80%;
+    margin-bottom: 10px;
 }
 .weatherforcastbox{
     position: relative;
@@ -55,7 +52,7 @@ width: 70%;
     line-height: 0;
      text-align: justify;
     word-spacing: -.31em;
-    display: inline-block;
+    display: inline;
     margin: 30px 2% 0 2%;
 
 
@@ -67,16 +64,16 @@ width: 70%;
 .collumn{
     font-size: 14px;
     line-height: 20px;
-    width: 19.5%;
+    width: 17.5%;
     display: inline-block;
     padding: 0 3% 0 3%;
     position: relative;
     vertical-align: top;
-    margin-bottom: 50px;
     transition: all .7s;
 }
 .collumn + .collumn { 
   border-left: 1px solid #2f2f2f;
+  height: 100%;
 }
 .collumn .headline{
     text-align: center;
