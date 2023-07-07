@@ -13,7 +13,7 @@ header {
   font-size: 80px;
   white-space: initial;
   text-transform: uppercase;
-  display: inline-block;
+  display: inline;
   line-height: 72px;
   margin-bottom: 20px;
   max-width: 80%;
